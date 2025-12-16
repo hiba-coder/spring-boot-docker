@@ -1,6 +1,0 @@
-/workspaces/spring-boot-docker/src/main/java/com/example/spring_docker/HelloController.java
-/workspaces/spring-boot-docker/src/main/java/com/example/spring_docker/SpringDockerApplication.java
-/workspaces/spring-boot-docker/src/main/java/com/example/spring_docker/controller/UserController.java
-/workspaces/spring-boot-docker/src/main/java/com/example/spring_docker/repository/UserRepository.java
-/workspaces/spring-boot-docker/src/main/java/com/example/spring_docker/service/UserService.java
-/workspaces/spring-boot-docker/src/main/java/com/example/spring_docker/model/User.java

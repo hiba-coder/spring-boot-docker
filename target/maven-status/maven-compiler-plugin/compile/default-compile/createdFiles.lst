@@ -1,6 +1,0 @@
-com/example/spring_docker/model/User.class
-com/example/spring_docker/service/UserService.class
-com/example/spring_docker/controller/UserController.class
-com/example/spring_docker/HelloController.class
-com/example/spring_docker/repository/UserRepository.class
-com/example/spring_docker/SpringDockerApplication.class
